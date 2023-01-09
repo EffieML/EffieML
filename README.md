@@ -9,7 +9,10 @@
 <div align='center'>
  <image src="https://github.com/EffieML/EffieML/blob/main/ming-pic1.gif" width="340" height="auto" >
 </div>
-  
+
+   <p>
+     I'm looking forward to embark on the next major chapter in my life. I am passionate about solving challenging problems and learning new skills!
+   <p>
 ## Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
