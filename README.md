@@ -1,15 +1,17 @@
 ### Hi there 👋
-<div align='center'>
- <image src="https://github.com/EffieML/EffieML/blob/main/ming-pic1.gif" width="340" height="auto" >
-</div>
+
 
 <h3 align="center">
   Hey! My name is Ming, I am a
 </h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&size=25&color=FDD2FE&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Software+Development+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&size=30&color=rgb(253,229,170)&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Software+Development+Engineer" alt="Typing SVG" /></a>
 <p>
+ 
+<div align='center'>
+ <image src="https://github.com/EffieML/EffieML/blob/main/ming-pic1.gif" width="340" height="auto" >
+</div>
   
 <!--
 **EffieML/EffieML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
