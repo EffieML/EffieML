@@ -31,7 +31,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
 ![Ming's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EffieML&theme=omni&custom_title=Languages&langs_count=4)
-![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=EffieML&count_private=true&theme=omni_yellow&custom_title=Stats&hide=contribs&line_height=40)
+![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=EffieML&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
 </br>
 ![Ming's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=EffieML&theme=tokyonight&hide_border=false)<br/>
 <!--
