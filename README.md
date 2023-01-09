@@ -34,6 +34,10 @@
 ![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=EffieML&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
 </br>
 ![Ming's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=EffieML&theme=tokyonight&hide_border=false)<br/>
+
+## Let's Get Connected!
+<a href="https://www.linkedin.com/in/effie-liu-b57372261/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<!-- <a href="https://www.linkedin.com/in/effie-liu-b57372261/" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a> -->
 <!--
 **EffieML/EffieML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
