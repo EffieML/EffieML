@@ -13,6 +13,13 @@
 <p>
     I'm looking forward to embark on the next major chapter in my life. I am passionate about solving challenging problems and learning new skills!
 <p>
+
+-------
+### My Projects
+[Mzone - Amazon clone](https://aa-mzone.onrender.com/)
+[Eriscord - Discord clone](https://eriscord-aa.onrender.com/)  
+[Staybnb - Airbnb clone](https://airbnb-ming.herokuapp.com/)
+
      
 ## Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,7 +44,7 @@
 ![Ming's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EffieML&theme=omni&custom_title=Languages&langs_count=4)
 ![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=EffieML&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
 </br>
-![Ming's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=EffieML&theme=tokyonight&hide_border=false)<br/>
+![Ming's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=EffieML&theme=omni&hide_border=false)<br/>
 
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/effie-liu-b57372261/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
