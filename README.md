@@ -17,8 +17,8 @@
 -------
 ### My Projects
 * [Mzone - Amazon clone](https://aa-mzone.onrender.com/)
-* [Staybnb - Airbnb clone](https://airbnb-ming.herokuapp.com/)
 * [Eriscord - Discord clone](https://eriscord-aa.onrender.com/) 
+* [Staybnb - Airbnb clone](https://airbnb-ming.herokuapp.com/)
 
 -------
      
