@@ -11,7 +11,7 @@
 </div>
 
 <p>
-    I'm looking forward to embark on the next major chapter in my life. I am passionate about solving challenging problems and learning new skills!
+    I have been working as a geophysist in oil & gas industry for the past 10 years. Now I'm looking forward to embark on the next major chapter in my life. I am passionate about solving challenging problems and learning new skills!
 <p>
 
 -------
