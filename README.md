@@ -50,7 +50,7 @@
 
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/effie-liu-b57372261/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<!-- <a href="https://www.linkedin.com/in/effie-liu-b57372261/" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a> -->
+<a href="https://www.linkedin.com/in/effie-liu-b57372261/" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
 <!--
 **EffieML/EffieML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
