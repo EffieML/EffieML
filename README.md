@@ -43,9 +43,9 @@
 
 ------- 
  
-![Ming's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EffieML&theme=omni&custom_title=Languages&langs_count=4)
+<!-- ![Ming's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EffieML&theme=omni&custom_title=Languages&langs_count=4)
 ![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=EffieML&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
-</br>
+</br> -->
 ![Ming's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=EffieML&theme=omni&hide_border=false)<br/>
 
 ## Let's Get Connected!
