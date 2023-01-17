@@ -15,6 +15,13 @@
 <p>
 
 -------
+## Let's Get Connected!
+<a href="https://www.linkedin.com/in/effie-liu-b57372261/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://angel.co/u/ming-liu-19/" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
+<a href="mailto:ming.liu0425@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  
+-------
+  
 ### My Projects
 * [Mzone - Amazon clone](https://aa-mzone.onrender.com/)
 * [Eriscord - Discord clone](https://eriscord-aa.onrender.com/) 
@@ -48,9 +55,7 @@
 </br>
 ![Ming's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=EffieML&theme=omni&hide_border=false)<br/>
 
-## Let's Get Connected!
-<a href="https://www.linkedin.com/in/effie-liu-b57372261/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://angel.co/u/ming-liu-19/" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
+
 <!--
 **EffieML/EffieML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
