@@ -13,7 +13,7 @@
 <p>
     I have been working as a geophysist in oil & gas industry for the past 10 years. Now I'm looking forward to embark on the next major chapter in my life. I am passionate about solving challenging problems and learning new skills! 
 <p>
-<p> I gladly invite you to view <h3><a href='https://effieml.github.io/'>my portfolio</a><h3> to gain a better picture of my abilities and experience.<p>
+<p> I gladly invite you to view <a href='https://effieml.github.io/'>**my portfolio**</a> to gain a better picture of my abilities and experience.<p>
 
 -------
 ## Let's Get Connected!
