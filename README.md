@@ -11,7 +11,7 @@
 </div>
 
 <p>
-    I have been working as a geophysist in oil & gas industry for the past 10 years. Now I'm looking forward to embark on the next major chapter in my life. I am passionate about solving challenging problems and learning new skills! 
+    I have been working as a geophysicist in oil & gas industry for the past 10 years. Now I'm looking forward to embark on the next major chapter in my life. I am passionate about solving challenging problems and learning new skills! 
 <p>
 <p> I gladly invite you to view <a href='https://effieml.github.io/'><b>my portfolio</b></a> to gain a better picture of my abilities and experience.<p>
 
