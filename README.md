@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hey! My name is Ming, I am 
+  Hey! My name is Ming, I am a
 </h3>
 
 <p align="center">
